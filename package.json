@@ -1,0 +1,23 @@
+{
+  "name": "webpack-theory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "webpack-theory": "./bin/webpack-theory.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordon-wang/webpack-theory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nordon-wang/webpack-theory/issues"
+  },
+  "homepage": "https://github.com/nordon-wang/webpack-theory#readme"
+}
